@@ -121,7 +121,7 @@ export default function Cal() {
 
   return (
     <>
-      <div className = "frame">
+      <div className = "calculator">
         <div className="header">CALCULATOR</div>
         <Panel />
       </div>
